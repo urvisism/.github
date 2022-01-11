@@ -1,7 +1,7 @@
 ## An Open-Source Community for Developers, Designers & Creators
 
 <p align="center">
-  <img src="" alt="Logo" height="auto" width="auto" style="border-radius:50%"/>
+  <img src="https://github.com/gaurtvin.png" alt="Logo" height="auto" width="auto" style="border-radius:50%"/>
 </p>
 
 ## Get Involved
